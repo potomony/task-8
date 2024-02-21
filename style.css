@@ -1,0 +1,130 @@
+.first-sec{
+    background-color:blue;
+    height: 560px;
+}
+.nav{
+    width: 1440px;
+    height: 44px;
+    margin: auto;
+    padding: 20px;
+    color: white;
+    font-weight: 400px;
+    font-style: normal;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.first-blog{
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.blog{
+    margin-right: 250px;
+}
+.btn1{
+    height: 44px;
+    width: 123px;
+    font-weight: 700px;
+    background-color: #e02c6d;
+    color: white;
+    border: 0px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 16px;
+}
+.first-div{
+    display: flex;
+}
+.head{
+    color: white;
+    font-weight: 700px;
+    font-size: 64px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-style: normal;
+}
+.sub{margin-left: 220px;
+}
+
+.capture{
+    width: 556px;
+    height: 438px;
+    margin-left: 200px;
+
+
+}
+.second-sec{
+    width: 1200px;
+    margin: auto;
+    margin-top: 85px;
+
+}
+.picture{
+    width: 300px;
+    height: 256px;
+
+}
+.second-main{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+
+.sub-main{
+    padding: 40px;
+    color: gray;
+    box-shadow: 10px 10px 10px 10px rgb(233, 222, 222);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.mid-head{
+    font-size: 700px;
+    color: black;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.last-sec{
+    display: flex;
+    width: 1200px;
+    margin: auto;
+    height:500px;
+    margin-top: 180px;
+}
+
+.last-pic{
+    width:500px;
+    height:500px;
+    margin-left: 46px;
+}
+.head-last{
+    color:black;
+    font-weight: 700px;
+    font-size: 60px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+}
+
+.last-para{
+    color: gray;
+    font-weight: 700px;
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 10px;
+
+}
+
+.end-sec{
+
+    margin: auto;
+    margin-top: 122px;
+
+}
+.skill{
+    width: 484px;
+    height: 110px;
+    margin-left: 475px;
+}
+.main-study{
+    margin-left: 600px;
+}
+.study{
+
+    width: 32px;
+    height: 32px;
+}
